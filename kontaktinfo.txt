@@ -1,1 +1,2 @@
-Hei, Jeg heter Fredrik og er 21 år gammel
+﻿Hei, Jeg heter Fredrik og er 21 år gammel
+. Slik er det.
